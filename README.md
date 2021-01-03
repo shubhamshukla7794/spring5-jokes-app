@@ -1,2 +1,3 @@
-# spring5-jokes-app
-Jokes App for my Spring 5 Course
+# Spring Boot Jokes App
+This Spring Boot web application displays a random Rajnikant Joke on the index.
+
